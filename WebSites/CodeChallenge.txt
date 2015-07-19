@@ -1,0 +1,26 @@
+- Code Wars
+http://www.codewars.com/
+
+- Hacker Rank
+https://www.hackerrank.com/
+
+- Top Coder
+https://www.topcoder.com/challenges/?pageIndex=1
+
+- Reddit Daily Programmer
+http://www.reddit.com/r/dailyprogrammer
+
+- Rosalind
+http://rosalind.info/problems/list-view/
+
+- Exercism
+http://exercism.io/
+
+- Code Kata
+http://codekata.com/kata/codekata-intro/
+
+- Code Challenge
+https://www.mscodechallenge.net/
+
+- Coding Game
+https://www.codingame.com/games/puzzles
