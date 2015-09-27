@@ -1,3 +1,5 @@
+### WiFi Network Commands ###
+
 - Show all Wi-Fi profiles
 ```
 netsh wlan show profiles
