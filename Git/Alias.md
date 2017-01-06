@@ -25,7 +25,27 @@ co = commit -m
 ```
 
 ```
+ac = commit -a -m
+```
+
+```
 pom = push origin master
+```
+
+```
+pod = push origin dev
+```
+
+```
+po = push origin
+```
+
+```
+dt = difftool
+```
+
+```
+merge-local = merge --no-ff --no-commit
 ```
 
 ```
