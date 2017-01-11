@@ -12,6 +12,7 @@ ac = commit -a -m
 pom = push origin master
 pod = push origin dev
 po = push origin
+p = pull
 dt = difftool
 merge-local = merge --no-ff --no-commit
 config-global = config --global -l
