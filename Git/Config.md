@@ -36,3 +36,12 @@ tool = default-difftool
 # To use VS code as diff tool
 cmd = code --wait --diff $LOCAL $REMOTE
 ```
+
+[mergetool "p4merge"]
+```
+path = C:\\Program Files\\Perforce\\p4merge.exe
+```
+[merge]
+```
+tool = p4merge
+```
